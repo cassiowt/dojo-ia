@@ -1,4 +1,4 @@
-# Roteiro para Coding Dojo: Programação com VS Code e GitHub Copilot (Atualizado)
+# Roteiro para Coding Dojo: Programação com VS Code e GitHub Copilot
 
 ## Objetivo
 Ensinar desenvolvedores a utilizar o Visual Studio Code (VS Code) com GitHub Copilot para criar códigos mais eficientes, promovendo aprendizado colaborativo e resultando em um software funcional (um gerenciador de tarefas simples em Python com interface CLI). Nesta dinâmica, apenas um piloto codifica por vez, com o copiloto sendo sempre um facilitador da organização.
